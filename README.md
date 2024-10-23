@@ -1,0 +1,1 @@
+A very informal introduction to monads in Haskell, aiming to provide some initial intuition.
